@@ -1,7 +1,7 @@
 # Smart Parking Management System POC
 
 ## Run locally
-1. Copy `.env.example` to `.env` and add your Supabase URL and anon key.
+1. Add your Supabase URL and anon key to the `.env`.
 2. In the Supabase SQL Editor, run `supabase/schema.sql`.
 3. Run `npm install`.
 4. Run `npm run dev`.
